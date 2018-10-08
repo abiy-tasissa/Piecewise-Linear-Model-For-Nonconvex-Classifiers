@@ -31,4 +31,4 @@ Leo Breiman. Hinging hyperplanes for regression, classification, and function ap
 Transactions on Information Theory, 39(3):999–1013, 1993.
 
 ## Feedback
-Email your feedback to <a href="mailto:abhi.achoudhary@gmail.com">Abhishek Choudhary</a>.
+Email your feedback to <a href="mailto:abiy19@gmail.com">Abiy Tasissa</a>.
