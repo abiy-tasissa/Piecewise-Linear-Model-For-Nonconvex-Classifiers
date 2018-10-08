@@ -1,5 +1,5 @@
-# Piecwise-Linear-Model-For-Nonconvex-Classifiers
-Classifier for a two-class dataset using only piecewise linear functions. Applicable to any nonlinear non-convex boundary of moderate complexity. This was a final project for MATH 6490 course at Rensselaer Polyetechnic Institute titled Topics in Optimization offered in Spring 2018. The instructor was Professor Yangyang Xu. The project was a team work with [Abhishek Choudhary](https://github.com/abhiachoudhary).
+# Piecewise-Linear-Model-For-Nonconvex-Classifiers
+Classifier for a two-class dataset using only piecewise linear functions. Applicable to any nonlinear non-convex boundary of moderate complexity. This was a final project for MATH 6490 course at Rensselaer Polyetechnic Institute titled Topics in Optimization offered in Spring 2018. The instructor was Professor [Yangyang Xu](https://xu-yangyang.github.io/). The project was a team work with [Abhishek Choudhary](https://github.com/abhiachoudhary).
 
 ## MATLAB files description
 `demo_pwl.m`: This is the main file which loads (different kinds of) data file (.mat) and divides it into training and testing set. Then it calls the `run_sequentially.m` file after setting the parameter m which denotes the number of piecwise linear components in the classifier. 
